@@ -1,5 +1,6 @@
 **NLP Finetuning LORA Qwen1.5-4B-Chat
 **
+
 **Learning Objective
 **Demonstration of fineturing pretrained model for specific purpose. In this case, it's turning model to poem generator.
 
